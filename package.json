@@ -1,0 +1,14 @@
+{
+  "name": "five-word-sentence",
+  "version": "1.0.0",
+  "description": "Esercizio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Zappalà",
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
